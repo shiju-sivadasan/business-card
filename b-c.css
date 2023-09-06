@@ -1,0 +1,25 @@
+.body{
+   
+    
+}
+.card{
+    background-color: aqua;
+    height: 300px;
+    width: 410px;
+    border: 1px dotted blue;
+    border-bottom: 5px solid palevioletred;
+    display: flex;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pic{
+   width: 150px;
+   height: 300px;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+}
